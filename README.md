@@ -1,4 +1,4 @@
-# Namay
+# Namay Gupta
 
 **Entrepreneur - B2B Agency (AI Software, Automation, Lead Generation) | Trader | Builder**
 
