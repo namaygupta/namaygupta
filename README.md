@@ -24,6 +24,7 @@ Background spans web development, networking, operating systems, business system
 - Founder, largest student-led Speech & Debate community in Ohio (@OSDWatch)
 - ~700 hours of volunteer work, including an IoT system built for a nonprofit clinic
 - Investment Club, Coding Club (instructor), Geography Club, SADD
+- Various other activities
 
 ## Certifications (partial)
 
@@ -35,8 +36,7 @@ Bloomberg Market Concepts, CFA Institute Investment Foundations, Finance Fundame
 
 **College-level:** Operating Systems, Programming, Networking, Web Development, Business Foundations, Economics, Customer Service
 
-## Philosophy
 
-Operates on first-principles thinking and discipline over motivation. Skeptical of college as a default path - MIT is still part of the long-term plan, on his own terms and timeline. Influenced by Stoicism (Marcus Aurelius) and Nietzsche.
+I operate on first-principles thinking and discipline over motivation. I am deeply influenced by Stoicism and Nietzsche.
 
 The long-term objective is building technology-driven companies at scale - ones that generate real capital, drive innovation, and operate for people worldwide, around the clock. The belief underneath all of it: anyone is capable of leaving an impact on the world, and should.
